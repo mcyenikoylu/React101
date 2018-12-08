@@ -1,0 +1,19 @@
+{
+  "name": "react101",
+  "version": "1.0.0",
+  "description": "mcy react 101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcy",
+    "react101"
+  ],
+  "author": "mcy",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3"
+  }
+}
